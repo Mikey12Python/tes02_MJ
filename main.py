@@ -1,1 +1,1 @@
-print("rozpoznanie obrazowe")
+print("rozpoznanie obrazowe :( ")
